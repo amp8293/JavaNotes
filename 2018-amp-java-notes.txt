@@ -1,0 +1,5 @@
+2018-03 amp notes from java web development class
+
+
+GIT Notes
+To explorer:  git provides access control and several collaboration features such as wikis, task management, and bug tracking and feature requests for every project.
